@@ -1,0 +1,3 @@
+export const ADD_TO_CART_REQ = 'ADD_TO_CART_REQ';
+export const ADD_TO_CART_SUCCED = 'ADD_TO_CART_SUCCED';
+export const ADD_TO_CART_FAILED = 'ADD_TO_CART_FAILED';

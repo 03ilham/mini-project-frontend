@@ -1,0 +1,21 @@
+//sign up
+export const GET_SIGNUP_REQ = "GET_SIGNUP_REQ";
+export const GET_SIGNUP_SUCCED = "GET_SIGNUP_SUCCED";
+export const GET_SIGNUP_FAILED = "GET_SIGNUP_FAILED";
+// sign in
+export const GET_SIGNIN_REQ = 'GET_SIGNIN_REQ';
+export const GET_SIGNIN_SUCCED = 'GET_SIGNIN_SUCCED';
+export const GET_SIGNIN_FAILED = 'GET_SIGNIN_FAILED';
+// get
+export const GET_USER_REQ = 'GET_USER_REQ';
+export const GET_USER_SUCCED = 'GET_USER_SUCCED';
+export const GET_USER_FAILED = 'GET_USER_FAILED';
+// log out
+export const GET_LOGOUT_REQ = 'GET_LOGOUT_REQ';
+export const GET_LOGOUT_SUCCED = 'GET_LOGOUT_SUCCED';
+export const GET_LOGOUT_FAILD = 'GET_LOGOUT_FAILD';
+// update 
+export const UPDATE_USER_REQ = 'UPDATE_USER_REQ';
+export const UPDATE_USER_SUCCED = 'UPDATE_USER_SUCCED';
+export const UPDATE_USER_FAILED = 'UPDATE_USER_FAILED';
+
